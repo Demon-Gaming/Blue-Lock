@@ -1,0 +1,99 @@
+nav ul {
+    background-color: transparent;
+    background: linear-gradient(to right, #284fde,#ffffff,#e43e3e);
+    text-align: center;
+    color:
+}
+
+li{
+    list-style: none;
+}
+
+header{
+    background-color:;
+    color:linear-gradient(to right, #d9db46,#c12338,#d9be22);
+    text-align: center;
+}
+
+a:hover{
+    color:linear-gradient(to right, #d9db46,#c12338,#d9be22);
+    background-color: 
+    color:#5b5555;
+    
+}
+
+.Liste ul li a{
+    text-decoration: none;
+    color:#000;
+    transition:transform 0.5s ease;
+    display: inline-block;
+}
+
+.Liste ul li a:hover{
+    transform:scale(0.9);
+}
+
+section{
+    background-color:
+    padding: 15px;
+    margin: 5px;
+    color:
+}
+
+section{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    padding: 3.5px;
+}
+
+.header-text{
+    background-color:;
+    color: ;
+}
+
+body.page{
+    background: linear-gradient(to right, #d9db46,#c12338,#d9be22);
+}
+nav ul li a:hover{
+    color:;
+    background-color:;
+}
+
+body.index{
+    background :linear-gradient(to right, #4762c6,#ffffff,#e80f0f);
+}
+.image{
+    background-color:;
+    padding: 25px;
+}
+article.container{
+    display: flex;
+    align-items: center;
+    margin: 20px;
+}
+.image{
+    flex: 1;
+    padding-right: 20px;
+}
+.img{
+    background-color:;
+    padding: 25px;
+}
+.ImagesBL a img{
+    transition: transform 0.3s ease;
+    
+}
+.ImagesBL a:hover img{
+    transform: scale(1.2);
+}
+
+body.web{
+    background: linear-gradient(to right, #284fde,#ffffff,#e43e3e);
+}
+
+.h2{
+    color: #e80f0f;
+}
